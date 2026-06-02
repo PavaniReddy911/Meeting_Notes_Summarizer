@@ -1,0 +1,7 @@
+streamlit
+tensorflow
+numpy
+pandas
+PyPDF2
+python-docx
+fpdf
